@@ -1,0 +1,5 @@
+build/
+resources/ffmpeg.exe
+resources/python/
+*.user
+.vscode/
