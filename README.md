@@ -2,6 +2,7 @@
 
 把中文小说 TXT 一键制作成「配音 + 字幕 + 视频」的 Windows 桌面工具。纯原生 Win32/C++ 编写，无需安装、不依赖浏览器或 Node.js，解压即用。
 
+
 ## 功能
 
 - 导入或粘贴 UTF-8 TXT 小说正文，一键生成完整视频
@@ -47,3 +48,4 @@
 - 随包第三方组件（FFmpeg、edge-tts、Python 运行时等）的许可证见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
 
 > 请只使用拥有合法授权的文本、视频、音乐与字体内容。
+> 本项目在开发过程中使用了 AI 辅助工具（OpenAI Codex、DeepSeek Harness）。
